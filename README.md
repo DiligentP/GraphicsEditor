@@ -1,5 +1,6 @@
 # GraphicsEditor
-##개요
+개요
+
 ● 프로젝트명 :　		GraphicsEditor (1차 프로젝트)
 ● 프로젝트 기간 :		2020 09 06 ~ 2017 10 15
 
